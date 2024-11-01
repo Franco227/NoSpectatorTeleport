@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.example.franco227.no_spectator_teleport.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ServerPlayNetworkHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

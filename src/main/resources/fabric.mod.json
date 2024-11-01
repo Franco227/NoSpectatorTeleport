@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "no-spectator-teleport",
+	"version": "${version}",
+	"name": "No Spectator Teleport",
+	"description": "Disables teleporting while in spectator.",
+	"authors": [
+		"Franco227"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/no-spectator-teleport",
+		"sources": "https://github.com/Franco227/NoSpectatorTeleport",
+		"issues": "https://github.com/Franco227/NoSpectatorTeleport"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/no-spectator-teleport/icon.png",
+	"environment": "server",
+	"entrypoints": {
+		"main": [
+			"com.example.franco227.no_spectator_teleport.NoSpectatorTeleport"
+		]
+	},
+	"mixins": [
+		"no-spectator-teleport.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": ">=1.21 <=1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
