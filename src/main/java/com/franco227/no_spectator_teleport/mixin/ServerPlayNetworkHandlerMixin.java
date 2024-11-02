@@ -1,4 +1,4 @@
-package com.example.franco227.no_spectator_teleport.mixin;
+package com.franco227.no_spectator_teleport.mixin;
 
 import net.minecraft.network.packet.Packet;
 import net.minecraft.network.packet.c2s.play.SpectatorTeleportC2SPacket;

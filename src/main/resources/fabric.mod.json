@@ -17,7 +17,7 @@
 	"environment": "server",
 	"entrypoints": {
 		"main": [
-			"com.example.franco227.no_spectator_teleport.NoSpectatorTeleport"
+			"com.franco227.no_spectator_teleport.NoSpectatorTeleport"
 		]
 	},
 	"mixins": [

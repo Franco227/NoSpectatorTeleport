@@ -1,4 +1,4 @@
-package com.example.franco227.no_spectator_teleport;
+package com.franco227.no_spectator_teleport;
 
 import net.fabricmc.api.ModInitializer;
 
