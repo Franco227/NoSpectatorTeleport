@@ -14,7 +14,7 @@
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/no-spectator-teleport/icon.png",
-	"environment": "server",
+	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"com.franco227.no_spectator_teleport.NoSpectatorTeleport"
