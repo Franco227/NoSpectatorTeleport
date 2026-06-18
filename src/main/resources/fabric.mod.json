@@ -10,7 +10,7 @@
 	"contact": {
 		"homepage": "https://modrinth.com/mod/no-spectator-teleport",
 		"sources": "https://github.com/Franco227/NoSpectatorTeleport",
-		"issues": "https://github.com/Franco227/NoSpectatorTeleport"
+		"issues": "https://github.com/Franco227/NoSpectatorTeleport/issues/"
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/no-spectator-teleport/icon.png",
@@ -25,7 +25,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.5",
-		"minecraft": ">=1.17",
-		"java": ">=17"
+		"minecraft": ">=26.1",
+		"java": ">=25"
 	}
 }
